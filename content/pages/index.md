@@ -13,7 +13,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-    title: We do fishing differently. 123
+    title: We do fishing differently. 123 update
     subtitle: Fresh. Better. Faster 1
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
